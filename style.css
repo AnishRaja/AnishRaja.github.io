@@ -1,0 +1,137 @@
+#ok {
+	text-align: center;
+	height: 900px;
+	background-image: url(http://interfacelift.com/wallpaper/D53d5697/04153_kochelsee_1920x1080.jpg);
+}
+.my-4 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    width: 300px;
+    border-top: 5px solid black !important;
+}
+
+
+
+
+body {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+
+* {
+   font-family: 'Roboto', sans-serif;
+}
+
+
+
+.stuff {
+  text-align: center !important;
+}
+
+
+.container {
+   padding-top: 100px;
+}
+.first {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    width: 300px;
+    border-top: 5px solid black !important;
+}
+
+div.container4 {
+    height: 10em;
+    position: relative }
+div.container4 p {
+    margin: 0;
+    position: absolute;
+    text-align: center;
+    width: 900px;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) }
+
+.title1 {
+   text-align: center;
+}
+
+.second {
+     margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    width: 300px;
+    border-top: 5px solid black !important;
+}
+
+.third {
+     margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    width: 300px;
+    border-top: 5px solid black !important;
+}
+
+
+.container5 {
+   text-align: center;
+}
+
+.container6 {
+  text-align: center;
+}
+
+
+.gallery-title
+{
+    font-size: 36px;
+    color: black;
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 70px;
+}
+
+.port-image
+{
+    width: 100%;
+}
+
+.gallery_product
+{
+    margin-bottom: 30px;
+}
+
+.fourth {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    width: 300px;
+    border-top: 5px solid black !important;
+}
+
+
+canvas{
+  display:block;
+  vertical-align:bottom;
+  position: absolute;
+}
+
+/* ---- particles.js container ---- */
+
+#particles-js{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  top: 0;
+}
+
+.jumbotron {
+  text-align: center;
+}
