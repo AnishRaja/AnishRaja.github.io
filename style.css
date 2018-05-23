@@ -3,6 +3,8 @@
 	height: 900px;
 	background-image: url(https://raw.githubusercontent.com/AnishRaja/AnishRaja.github.io/master/jumbotron.jpg);
 	  background-repeat:no-repeat;
+  background-size: cover;
+  background-position: center center;
 
 }
 .my-4 {
